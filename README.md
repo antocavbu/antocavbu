@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antocavbu Antonieta Bustos
-- 🌱 I’m currently learning how to code and my goal is to become a Fullstack Developer
+- 🌱 I recently graduated as a Fullstack Developer from Coding Dojo and am excited to start my journey in tech!
 - 📫 How to reach me : antobustosc@gmail.com
-- ⚡ Fun fact: i used to work in a tech company but in the HR department (i major in psychology)
+- ⚡ Fun fact: I used to work in the HR department of a tech company, leveraging my background in psychology
 
 <!---
 antocavbu/antocavbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
